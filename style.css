@@ -78,3 +78,25 @@ ul.sidebar-nav  li a {
     background-color:#fffff;
 
 }
+
+.login-box{
+    width:360px;
+    margin:7% auto;
+}
+.login-box-body{
+}
+.login-box-body#submit{
+    margin-right:30px;
+    border:1px solid #ddd;
+}
+.login-box-msg{
+    margin:0;
+    text-align: center;
+    margin-bottom:25px;
+    font-weight: 300;
+}
+
+.box-forgot-password{
+    width:360px;
+    margin:auto;
+}
